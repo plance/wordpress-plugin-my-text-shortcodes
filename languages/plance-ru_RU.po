@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: My Shortcode plugin by Plance\n"
+"POT-Creation-Date: 2015-11-26 14:51+0300\n"
+"PO-Revision-Date: 2015-11-26 14:51+0300\n"
+"Last-Translator: Pavel\n"
+"Language-Team: \n"
+"Language: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: /www/cms-free/wordpress/dev/wp-content/plugins/my-"
+"text-shortcodes\n"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:114
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:124
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:125
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:341
+msgid "List shortcodes"
+msgstr "Список шорткодов"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:115
+msgid "My shortcodes"
+msgstr "Мои шорткоды"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:132
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:371
+msgid "Creating shortcode"
+msgstr "Создание шорткода"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:133
+msgid "Create shortcode"
+msgstr "Создать шорткод"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:190
+msgid "Records"
+msgstr "Записей"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:207
+msgid "Shortcodes deleted"
+msgstr "Шорткоды удалены"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:211
+msgid "Shortcodes locked"
+msgstr "Шорткоды заблокированы"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:215
+msgid "Shortcodes unlocked"
+msgstr "Шорткоды разблокированы"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:234
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/app/class.table.php:57
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/app/view/form.php:7
+msgid "Title"
+msgstr "Название"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:235
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/app/class.table.php:58
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/app/view/form.php:13
+msgid "Code"
+msgstr "Код"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:236
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/app/view/form.php:19
+msgid "Blocking"
+msgstr "Блокировка"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:237
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/app/view/form.php:28
+msgid "Description"
+msgstr "Описание"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:263
+msgid "{field} must not be empty"
+msgstr "Поле  {field} не должно быть пустым"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:264
+msgid "{field} must not exceed {param1} characters long"
+msgstr "Поле {field} не должно превышать {param1} символов"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:265
+msgid "{field} must be one of the available options"
+msgstr "{field} выберете одно из допустимых значений"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:266
+msgid "{field} does not match the required format"
+msgstr "Название шорткода должно состоять только из латинских букв и цифр"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:267
+msgid "This shortcode has already been taken, select another shortcod"
+msgstr "Этот шорткод уже существует, выберете другой шорткод"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:288
+msgid "Shortcode saved"
+msgstr "Шорткод сохранен"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:305
+msgid "Shortcode updated"
+msgstr "Шорткод обновлен"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:319
+msgid "Selected shortcode does not exists"
+msgstr "Выбранный шорткод не существует"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:342
+msgid "Add shortcode"
+msgstr "Добавить шорткод"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:346
+msgid "Search"
+msgstr "Поиск"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/my-text-shortcodes.php:363
+msgid "Editing shortcode"
+msgstr "Редактироние шорткода"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/app/class.table.php:56
+msgid "ID"
+msgstr "ID"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/app/class.table.php:59
+msgid "Date create"
+msgstr "Дата создания"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/app/class.table.php:128
+msgid "Data not found"
+msgstr "Данные отсутствуют"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/app/class.table.php:183
+msgid "edit"
+msgstr "редактировать"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/app/class.table.php:184
+msgid "delete"
+msgstr "удалить"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/app/class.table.php:195
+msgid "Delete"
+msgstr "Удалить"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/app/class.table.php:196
+msgid "Lock"
+msgstr "Заблокировать"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/app/class.table.php:197
+msgid "Unlock"
+msgstr "Разблокировать"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/app/view/form.php:22
+msgid "Unlocked"
+msgstr "Разблокировано"
+
+#: /www/cms-free/wordpress/dev/wp-content/plugins/my-text-shortcodes/app/view/form.php:23
+msgid "Locked"
+msgstr "Заблокировано"
+
+#~ msgid "Data saved"
+#~ msgstr "Данные сохранены"
+
+#~ msgid "Data not saved"
+#~ msgstr "Даныне не сохранены"
+
+#~ msgid "Field \"Title\" must not be empty"
+#~ msgstr "Поле  \"Заголовок\" не должно быть пустым"
+
+#~ msgid "Wrong paraveter field \"Blocking\""
+#~ msgstr "Ошибочный параметр поля \"Блокировка\""
+
+#~ msgid "Field \"Description\" must not be empty"
+#~ msgstr "Поле  \"Описание\" не должно быть пустым"
+
+#, fuzzy
+#~ msgid "Create Shortcode"
+#~ msgstr "Создать книгу"
+
+#~ msgid "Books"
+#~ msgstr "Книги"
+
+#~ msgid "Tab 1"
+#~ msgstr "Вкладка 1"
+
+#~ msgid "Content 1"
+#~ msgstr "Содержимое 1"
+
+#~ msgid "Tab 2"
+#~ msgstr "Вкладка 2"
+
+#~ msgid "Content 2"
+#~ msgstr "Содержимое 2"
+
+#~ msgid "Author"
+#~ msgstr "Автор"
+
+#~ msgid "Price"
+#~ msgstr "Цена"
